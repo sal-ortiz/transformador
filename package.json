@@ -1,0 +1,19 @@
+{
+  "name": "transformador",
+  "version": "0.0.1",
+  "description": "apply transforms to a given object",
+  "main": "actions.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "transform",
+    "object",
+    "automation"
+  ],
+  "author": "Salvador Ortiz",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^3.9.0"
+  }
+}
